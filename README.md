@@ -6,6 +6,8 @@ Finally getting around to hosting at least some kind of copy of this script befo
 
 Working on documenting it but in a nutshell this is how it works
 
+- I included some sample test files, which were made on blender as a quick replacement for a proper imaging setup
+
 # General Steps:
 
 Point the script at a folder where a set of 360 images are stored with the naming scheme "image (xxx).png" where xxx is 1 thru 360 
